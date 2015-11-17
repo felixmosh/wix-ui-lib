@@ -22,3 +22,4 @@ Name             | Default   | Description
 -------------    |---------- |------------
 startWithColor   | `color-1` | initial color to show
 startWithOpacity |    100    | initial opacity to show
+toolTip          |  `false`  | indicates whether to show a tooltip for the current value
